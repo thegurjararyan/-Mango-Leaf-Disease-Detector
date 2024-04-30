@@ -6,7 +6,11 @@ A web application designed to identify diseases affecting mango leaves through c
 
 
 ## Watch Video Preview
-https://github.com/thegurjararyan/-Mango-Leaf-Disease-Detector/assets/114920247/371cdcb7-880f-419a-bb36-6517835bffa3
+
+
+https://github.com/thegurjararyan/-Mango-Leaf-Disease-Detector/assets/114920247/fef202e4-02da-46c9-8bb9-4bc03ddb704a
+
+
 
 
  
