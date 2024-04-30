@@ -1,13 +1,14 @@
 # Mango Leaf Disease Detector
-
-![Mango Leaf Disease Detector Logo]![mango](https://github.com/thegurjararyan/-Mango-Leaf-Disease-Detector/assets/114920247/27afaf7b-07a8-4109-9c6b-c1e46b6d7253)
+![mango](https://github.com/thegurjararyan/-Mango-Leaf-Disease-Detector/assets/114920247/27afaf7b-07a8-4109-9c6b-c1e46b6d7253)
 
 
 A web application designed to identify diseases affecting mango leaves through cutting-edge image recognition technology.
 
 
 ## Video Demo
-[![Watch the Video] <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://vimeo.com/event/4271113/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/941173523?autoplay=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
+
+ 
 ## Description
 Mango Leaf Disease Detector is a user-friendly platform that empowers agricultural enthusiasts and professionals to identify and address diseases impacting mango trees promptly. Leveraging advanced machine learning algorithms, the platform analyzes uploaded images of mango leaves, providing insightful predictions regarding the specific disease present. These predictions are conveniently visualized through intuitive pie charts, enabling users to make informed decisions about disease management strategies.
 
