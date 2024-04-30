@@ -5,7 +5,8 @@
 A web application designed to identify diseases affecting mango leaves through cutting-edge image recognition technology.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yXl1KRDzzZo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Watch Video Preview
+https://github.com/thegurjararyan/-Mango-Leaf-Disease-Detector/assets/114920247/371cdcb7-880f-419a-bb36-6517835bffa3
 
 
  
