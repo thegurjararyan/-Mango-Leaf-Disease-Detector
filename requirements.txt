@@ -1,0 +1,6 @@
+Flask==3.0.3
+numpy==1.24.3
+opencv-python==4.10.0.84
+tensorflow==2.10.0
+Werkzeug==3.0.3
+jinja2==3.1.4
